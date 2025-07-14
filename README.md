@@ -11,13 +11,10 @@ Assignment's Course : Mini Project
 - **Classification:** SVM and Random Forest
 - **Testing:** Confusion matrix and accuracy.
 
----
-
-## 🧪 Dependencies
-
-### OpenCV
+- **Dependencies:** OpenCV 
 
 ---
+
 
 ## 🔧 Run
 ``` 
