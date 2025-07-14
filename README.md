@@ -1,6 +1,7 @@
 <h1 align="center">✨ Traffic Sign Detection & Recognition System ✨</h1>
 
 Assignment's Course : Mini Project
+
 Description : A C++/OpenCV application that detects, segments, and classifies road traffic signs
 
 ✨✨✨
