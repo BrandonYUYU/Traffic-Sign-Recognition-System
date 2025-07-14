@@ -17,6 +17,8 @@ Assignment's Course : Mini Project
 
 ### OpenCV
 
+---
+
 ## 🔧 Run
 ``` 
 Choose from the menu:
