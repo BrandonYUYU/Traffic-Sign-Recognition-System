@@ -9,15 +9,13 @@ Assignment's Course : Mini Project
 - **Region Extraction & Preprocessing:** Crop, resize to 64×64 px, convert to HSV and gray scale.  
 - **Feature Extraction:** HOG descriptor with one-hot color encoding.  
 - **Classification:** SVM and Random Forest
-- **testing:** Confusion matrix and accuracy.
+- **Testing:** Confusion matrix and accuracy.
 
 ---
 
 ## 🧪 Dependencies
 
-```
-  - OpenCV
-```
+### OpenCV
 
 ## 🔧 Run
 ``` 
